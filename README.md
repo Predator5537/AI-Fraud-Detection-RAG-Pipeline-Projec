@@ -11,8 +11,8 @@ Short description
 Retrieval-augmented generation pipeline integrated with ML models for fraud detection and explainability.
 
 Primary contacts / maintainers
-- Predator5537 (owner)
-- (Add other maintainers / emails here)
+- Predator5537
+- No-a-man
 
 Languages & composition
 - NOTE: Replace these with accurate values from GitHub language statistics.
